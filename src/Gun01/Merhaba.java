@@ -8,6 +8,7 @@ public class Merhaba {
 
         System.out.println("Merhaba dünya");
         System.out.println("Adımız Java");
+        System.out.println("Merhaba dunya");
 
 
 
